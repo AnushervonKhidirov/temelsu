@@ -1,0 +1,4 @@
+main {
+    margin-top: var(--headerHeight);
+    flex-grow: 1;
+}
